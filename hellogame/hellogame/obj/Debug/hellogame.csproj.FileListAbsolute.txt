@@ -1,0 +1,14 @@
+c:\users\dania\documents\visual studio 2015\Projects\hellogame\hellogame\bin\Debug\hellogame.exe.config
+c:\users\dania\documents\visual studio 2015\Projects\hellogame\hellogame\bin\Debug\hellogame.exe
+c:\users\dania\documents\visual studio 2015\Projects\hellogame\hellogame\bin\Debug\hellogame.pdb
+c:\users\dania\documents\visual studio 2015\Projects\hellogame\hellogame\obj\Debug\hellogame.csprojResolveAssemblyReference.cache
+c:\users\dania\documents\visual studio 2015\Projects\hellogame\hellogame\obj\Debug\hellogame.Form1.resources
+c:\users\dania\documents\visual studio 2015\Projects\hellogame\hellogame\obj\Debug\hellogame.Properties.Resources.resources
+c:\users\dania\documents\visual studio 2015\Projects\hellogame\hellogame\obj\Debug\hellogame.csproj.GenerateResource.Cache
+c:\users\dania\documents\visual studio 2015\Projects\hellogame\hellogame\obj\Debug\hellogame.exe
+c:\users\dania\documents\visual studio 2015\Projects\hellogame\hellogame\obj\Debug\hellogame.pdb
+C:\Users\dania\Documents\Visual Studio 2015\Projects\hellogame\hellogame\bin\Debug\GameLibrary.dll
+C:\Users\dania\Documents\Visual Studio 2015\Projects\hellogame\hellogame\bin\Debug\GameLibrary.pdb
+C:\Users\dania\Documents\Visual Studio 2015\Projects\hellogame\hellogame\obj\Debug\hellogame.MainMenu.resources
+C:\Users\dania\Documents\Visual Studio 2015\Projects\hellogame\hellogame\obj\Debug\hellogame.Stage2.resources
+C:\Users\dania\Documents\Visual Studio 2015\Projects\hellogame\hellogame\obj\Debug\hellogame.BossStage.resources
